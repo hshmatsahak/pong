@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/dsl7/anaconda3/envs/pong/bin/python"
+}
